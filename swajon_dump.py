@@ -1,2 +1,2 @@
-import swajon_d
-swajon_d.swajon_menu()
+import sd
+sd.swajon_menu()
