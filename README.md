@@ -1,4 +1,4 @@
-# Swajon-Fire 🔥
+# HEX+FIRE 🔥
 CRACK FILE, CREATE FILE AND PUBLIC CRACKING TOOLS FREE TOOLS 🔥 
 
 # Installation ⬇️ ⬇️
@@ -22,12 +22,14 @@ pip install bs4
 
 pkg install git
 
-git clone https://github.com/SwajonAhmedofficial/Swajon-Fire.git
+git clone https://github.com/SW4JON/HEX-FIRE.git
+
+cd HEX-FIRE
+
+python Hex.py
 
 
 
-# Run Tools ⬇️ ⬇️ 
 
-cd Swajon-Fire
 
-python swajon.py
+
